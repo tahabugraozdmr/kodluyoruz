@@ -1,0 +1,2 @@
+# kodluyoruz
+Ödev 1 
