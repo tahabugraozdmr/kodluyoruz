@@ -1,0 +1,19 @@
+body {
+    background-image:url("https://picsum.photos/id/1060/500/500/?blur=2");
+    background-position: 0 10%;
+    background-repeat: repeat-x repeat-y;
+    align-items: center;
+    background-color: rgba(42, 182, 72,0.2);
+}
+
+table {
+    background:linear-gradient(30deg,red,black,brown,gray,rgb(221, 146, 33),white);
+    border-radius: 20px;
+    border-color:rgba(42, 182, 72,0.2);
+}
+
+header {
+    background-image:url("https://picsum.photos/id/556/200/300");
+    background-position: 50% 50%;
+    background-repeat:no-repeat;
+} 
